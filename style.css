@@ -609,6 +609,11 @@ footer .column .block-img{
 		margin-right: auto;
 	}
 }
+@media (min-width: 1200px) {
+	.helped-ind .col-one .block-icon:nth-child(3n){
+		margin-right: 16px;
+	}
+}
 .helped-ind .col-one .block-icon:nth-child(6n){
 	margin-right: -13px;
 }
